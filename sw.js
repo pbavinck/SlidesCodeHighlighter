@@ -28,11 +28,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "13a534c56dd58c639ed1aab11f0bb62c"
+    "revision": "a9206388e83c9ada6ce33fd48e9440a4"
   },
   {
     "url": "prism.js",
-    "revision": "9d460c42bfefb4ded3fedb6a81a3b987"
+    "revision": "49285fa98df0f60de9c868d8c4da948f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
